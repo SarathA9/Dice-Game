@@ -67,21 +67,22 @@ footer p{
         transform: scale(1.17);
     }
     #btn{
-        margin-top: 10%;
+        top: 10px;
     }
     img{
         height: 100px;
-        margin-top: 40px;
+        margin-top: 10px;
 
     }
     .img1 p,.img2 p{
-        font-size: 20px;
-    }
-    body{
-        height: 100vh;
-    }
-    footer p{
-        padding-top: 0%;
         font-size: 10px;
     }
+    body{
+        height: 90vh;
+    }
+    footer p{
+        padding: 0%;
+        font-size: 10px;
+    }
+    
 }
