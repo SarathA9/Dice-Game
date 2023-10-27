@@ -10,7 +10,6 @@ body{
 html{
     scroll-behavior: smooth;
 }
-
 img{
     height: 150px;
     border-radius: 30px;
@@ -35,7 +34,6 @@ button{
     height: 50px;
     width: 130px;
     transition: .5s;
-
 }
 #btn{
     margin-top: 6%;
